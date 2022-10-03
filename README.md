@@ -8,3 +8,12 @@ https://github.com/AmimerNabil/codejam2022/blob/main/readme.md
 
 ### **HOW WE BUILT IT**
 The development process for our web application was done in many simultaneous steps. We split the workload into three major sections: the front-end, the dropbox for the files, and the rest of the backend. For the front-end, we used HTML 5 and CSS to create our webpage. The dropbox was made using Javascript as well as HTML 5 and CSS. The rest of the backend on the website is made up of Python scripts.
+
+### **BUILT WITH**
+amazon-web-services,
+css,
+google-calendar,
+html,
+javascript,
+node.js,
+python,
